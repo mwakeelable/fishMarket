@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "265635355376",
+    "firebase_url": "https://fishmarket-197e3.firebaseio.com",
+    "project_id": "fishmarket-197e3",
+    "storage_bucket": "fishmarket-197e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265635355376:android:7a822c05adbfc172",
+        "android_client_info": {
+          "package_name": "com.freelance.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265635355376-hu7sgpl0pesvapbb0gideqvdkqeokkdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelance.market",
+            "certificate_hash": "e609723a12782388e8acfa0450213197c5f11118"
+          }
+        },
+        {
+          "client_id": "265635355376-rbl39pg66l6q1ll6cs0pa4qftr5srsdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG1DwUSsRJtijF0Rm_2r6hhQbOEHq6QTc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265635355376-rbl39pg66l6q1ll6cs0pa4qftr5srsdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
